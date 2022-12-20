@@ -1,0 +1,3 @@
+pyssc
+rpi_lcd
+RPi.GPIO
